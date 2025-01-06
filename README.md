@@ -31,5 +31,6 @@ __O que está funcionando:__
 __Obs__:
 n/a
 
-![image info](Gigabyte Z390 Gaming X - Sonoma e Sequoia/cap.png)
+![cap](https://github.com/user-attachments/assets/1005ad10-a49f-4583-8e72-fe04215df2bf)
+
 
