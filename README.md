@@ -6,7 +6,7 @@ CPU     | Intel i5 4210U
 Chipset | Series 8
 GPU     | Intel HD 4400
 Memory  | 6 GB
-Release Date | June 2019
+Release Date | 2014
 
 __Versão:__
 
