@@ -12,6 +12,8 @@ __Versão:__
 
 -> Opencore: 1.0.2
 
+-> Open Legacy Patcher 2.2.0 
+
 -> Mac OS Sonoma e Sequoia
 
 __O que está funcionando:__
